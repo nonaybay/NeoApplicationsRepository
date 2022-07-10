@@ -11,7 +11,7 @@
     "--verbose"
   ],
   "disabled": [],
-  "endTimestamp": 1657416255292,
+  "endTimestamp": 1657417579225,
   "failedBuilds": {},
   "jarsigner": "/usr/lib/jvm/default-java/bin/jarsigner",
   "keytool": "/usr/lib/jvm/default-java/bin/keytool",
@@ -36,6 +36,6 @@
     "com.saggitt.omega",
     "org.telegram.messenger.web"
   ],
-  "startTimestamp": 1657427039000,
+  "startTimestamp": 1657428359000,
   "subcommand": "update"
 }
