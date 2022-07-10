@@ -1,1 +1,38 @@
-{"/etc/issue.net":"Kali GNU/Linux Rolling","antiFeatures":{},"apksigner":"/config/android/sdk/build-tools/33.0.0/apksigner","archivePolicy0":[],"commandLine":["/usr/bin/fdroid update","-c"],"disabled":[],"endTimestamp":1657414709424,"failedBuilds":{},"jarsigner":"/usr/lib/jvm/default-java/bin/jarsigner","keytool":"/usr/lib/jvm/default-java/bin/keytool","needsUpdate":[],"noPackages":[],"noUpdateCheck":[],"startTimestamp":1657425506000,"subcommand":"update"}
+{
+  "/etc/issue.net": "Kali GNU/Linux Rolling",
+  "antiFeatures": {},
+  "apksigner": "/config/android/sdk/build-tools/33.0.0/apksigner",
+  "archivePolicy0": [],
+  "commandLine": [
+    "/usr/bin/fdroid update",
+    "--clean",
+    "--create-metadata",
+    "--pretty",
+    "--verbose"
+  ],
+  "disabled": [],
+  "endTimestamp": 1657416030086,
+  "failedBuilds": {},
+  "jarsigner": "/usr/lib/jvm/default-java/bin/jarsigner",
+  "keytool": "/usr/lib/jvm/default-java/bin/keytool",
+  "needsUpdate": [
+    "com.machiav3lli.backup",
+    "com.machiav3lli.fdroid",
+    "com.saggitt.omega.debug",
+    "com.saggitt.omega"
+  ],
+  "noPackages": [
+    "com.machiav3lli.backup",
+    "com.machiav3lli.fdroid",
+    "com.saggitt.omega.debug",
+    "com.saggitt.omega"
+  ],
+  "noUpdateCheck": [
+    "com.machiav3lli.backup",
+    "com.machiav3lli.fdroid",
+    "com.saggitt.omega.debug",
+    "com.saggitt.omega"
+  ],
+  "startTimestamp": 1657426816000,
+  "subcommand": "update"
+}
