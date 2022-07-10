@@ -1,6 +1,6 @@
 {
   "repo": {
-    "timestamp": 1657416027000,
+    "timestamp": 1657416252000,
     "version": 20001,
     "name": "NeoApplications",
     "icon": "icon.png",
@@ -22,9 +22,9 @@
       "suggestedVersionCode": "2147483647",
       "license": "Unknown",
       "name": "Neo Backup",
-      "added": 1657416018000,
+      "added": 1657416240000,
       "packageName": "com.machiav3lli.backup",
-      "lastUpdated": 1657416018000
+      "lastUpdated": 1657416240000
     },
     {
       "categories": [
@@ -33,9 +33,9 @@
       "suggestedVersionCode": "2147483647",
       "license": "Unknown",
       "name": "Neo Launcher",
-      "added": 1657416023000,
+      "added": 1657416245000,
       "packageName": "com.saggitt.omega.debug",
-      "lastUpdated": 1657416027000
+      "lastUpdated": 1657416248000
     },
     {
       "categories": [
@@ -44,9 +44,9 @@
       "suggestedVersionCode": "2147483647",
       "license": "Unknown",
       "name": "Neo Store",
-      "added": 1657416018000,
+      "added": 1657416240000,
       "packageName": "com.machiav3lli.fdroid",
-      "lastUpdated": 1657416018000
+      "lastUpdated": 1657416240000
     },
     {
       "categories": [
@@ -55,15 +55,26 @@
       "suggestedVersionCode": "2147483647",
       "license": "Unknown",
       "name": "Omega Launcher",
-      "added": 1657416020000,
+      "added": 1657416241000,
       "packageName": "com.saggitt.omega",
-      "lastUpdated": 1657416022000
+      "lastUpdated": 1657416244000
+    },
+    {
+      "categories": [
+        "repository"
+      ],
+      "suggestedVersionCode": "2147483647",
+      "license": "Unknown",
+      "name": "Telegram",
+      "added": 1657416252000,
+      "packageName": "org.telegram.messenger.web",
+      "lastUpdated": 1657416252000
     }
   ],
   "packages": {
     "com.machiav3lli.backup": [
       {
-        "added": 1657416018000,
+        "added": 1657416240000,
         "apkName": "com.machiav3lli.backup.8016.26.709e756500a8ba96a032cf38fd47ef4ab1b79420.apk",
         "hash": "2b7802ea0ebecde703c159cee257c8c13ba2a19135fa30543395412e7035533c",
         "hashType": "sha256",
@@ -177,7 +188,7 @@
     ],
     "com.machiav3lli.fdroid": [
       {
-        "added": 1657416018000,
+        "added": 1657416240000,
         "apkName": "com.machiav3lli.fdroid.911.23.c3e69b8cda600d097ba7d604bc6e0868cf401f4c.apk",
         "hash": "d2f1ca4ea8b634969e27b9ab76f0e98d9f11b522c49f06b6d597956541026e27",
         "hashType": "sha256",
@@ -239,7 +250,7 @@
     ],
     "com.saggitt.omega": [
       {
-        "added": 1657416022000,
+        "added": 1657416244000,
         "apkName": "com.saggitt.omega.280.26.b6687ed17da4081c62591bb89e7102594098cb6e.apk",
         "hash": "a2a6a30931dbc0669031abb77d39dd0ec2ad28b9c1a3c780fc3b063e497fe605",
         "hashType": "sha256",
@@ -460,7 +471,7 @@
         "versionName": "0.8.1"
       },
       {
-        "added": 1657416021000,
+        "added": 1657416242000,
         "apkName": "com.saggitt.omega.168.26.49d8372561b9acc9c1646f6944a60d9194b699e0.apk",
         "hash": "369c2dcaf2459504634f213f7d849c07ef07b8a1cab2a17b211aa14e2a298c26",
         "hashType": "sha256",
@@ -677,7 +688,7 @@
         "versionName": "0.8.0"
       },
       {
-        "added": 1657416020000,
+        "added": 1657416241000,
         "apkName": "com.saggitt.omega.118.25.6f15e8842736b891e1d2b3ed5ab4e8098aab70c6.apk",
         "hash": "0804015270e0abdc6d85099b159c86b7bb20f3ebbabf28416d4970c8c626a492",
         "hashType": "sha256",
@@ -859,7 +870,7 @@
     ],
     "com.saggitt.omega.debug": [
       {
-        "added": 1657416023000,
+        "added": 1657416245000,
         "apkName": "com.saggitt.omega.debug.920.26.428378fd3ce641636c74d9d022bc08a3813d4dce.apk",
         "hash": "3edd92c77a8ec58feb31cf2ebf099558b0b643c627e0a8773a52df61cf929334",
         "hashType": "sha256",
@@ -1093,7 +1104,7 @@
         "versionName": "0.9.0-beta2"
       },
       {
-        "added": 1657416027000,
+        "added": 1657416248000,
         "apkName": "com.saggitt.omega.debug.920.26.f6fffdb935fb3e229381e585d13e4e1fd0d02788.apk",
         "hash": "67613bf47fd99d8dd85129d44c1755799910a44c0512fa0aa5b8f4ad7077c365",
         "hashType": "sha256",
@@ -1327,7 +1338,7 @@
         "versionName": "0.9.0-beta2"
       },
       {
-        "added": 1657416025000,
+        "added": 1657416247000,
         "apkName": "com.saggitt.omega.debug.920.26.49ad30ba0be92a6d450b8977063a32eb5aae40c5.apk",
         "hash": "df0ba58953c3d5ea1ba4430c7a2a19e1318ee11a895cae865329bc3f214d8d08",
         "hashType": "sha256",
@@ -1559,6 +1570,258 @@
         ],
         "versionCode": 920,
         "versionName": "0.9.0-beta2"
+      }
+    ],
+    "org.telegram.messenger.web": [
+      {
+        "added": 1657416252000,
+        "apkName": "org.telegram.messenger.web.27219.16.493d8d82a0f3da6b1e7289895d1b55eccc510699.apk",
+        "hash": "337bff6ca35f89fbacd1ed158ceb48091e7492bf73e9420c49fd2a84a0a64c58",
+        "hashType": "sha256",
+        "minSdkVersion": 16,
+        "nativecode": [
+          "arm64-v8a",
+          "armeabi-v7a",
+          "x86",
+          "x86_64"
+        ],
+        "packageName": "org.telegram.messenger.web",
+        "sig": "3a7766b8cba893bbf2f9d01696196b4c",
+        "signer": "49c1522548ebacd46ce322b6fd47f6092bb745d0f88082145caf35e14dcc38e1",
+        "size": 68399926,
+        "targetSdkVersion": 30,
+        "uses-permission": [
+          [
+            "com.google.android.c2dm.permission.RECEIVE",
+            null
+          ],
+          [
+            "org.telegram.messenger.web.permission.MAPS_RECEIVE",
+            null
+          ],
+          [
+            "com.google.android.providers.gsf.permission.READ_GSERVICES",
+            null
+          ],
+          [
+            "android.permission.ACCESS_COARSE_LOCATION",
+            null
+          ],
+          [
+            "android.permission.ACCESS_FINE_LOCATION",
+            null
+          ],
+          [
+            "android.permission.CALL_PHONE",
+            null
+          ],
+          [
+            "android.permission.FOREGROUND_SERVICE",
+            null
+          ],
+          [
+            "android.permission.READ_CALL_LOG",
+            null
+          ],
+          [
+            "android.permission.INTERNET",
+            null
+          ],
+          [
+            "android.permission.RECORD_AUDIO",
+            null
+          ],
+          [
+            "android.permission.MODIFY_AUDIO_SETTINGS",
+            null
+          ],
+          [
+            "android.permission.ACCESS_NETWORK_STATE",
+            null
+          ],
+          [
+            "android.permission.ACCESS_WIFI_STATE",
+            null
+          ],
+          [
+            "android.permission.WAKE_LOCK",
+            null
+          ],
+          [
+            "android.permission.READ_EXTERNAL_STORAGE",
+            null
+          ],
+          [
+            "android.permission.GET_ACCOUNTS",
+            null
+          ],
+          [
+            "android.permission.READ_CONTACTS",
+            null
+          ],
+          [
+            "android.permission.WRITE_CONTACTS",
+            null
+          ],
+          [
+            "android.permission.MANAGE_ACCOUNTS",
+            null
+          ],
+          [
+            "android.permission.READ_PROFILE",
+            null
+          ],
+          [
+            "android.permission.WRITE_SYNC_SETTINGS",
+            null
+          ],
+          [
+            "android.permission.READ_SYNC_SETTINGS",
+            null
+          ],
+          [
+            "android.permission.AUTHENTICATE_ACCOUNTS",
+            null
+          ],
+          [
+            "android.permission.VIBRATE",
+            null
+          ],
+          [
+            "android.permission.SYSTEM_ALERT_WINDOW",
+            null
+          ],
+          [
+            "android.permission.READ_PHONE_STATE",
+            null
+          ],
+          [
+            "android.permission.RECEIVE_BOOT_COMPLETED",
+            null
+          ],
+          [
+            "android.permission.USE_FINGERPRINT",
+            null
+          ],
+          [
+            "android.permission.USE_BIOMETRIC",
+            null
+          ],
+          [
+            "android.permission.INSTALL_SHORTCUT",
+            null
+          ],
+          [
+            "com.android.launcher.permission.INSTALL_SHORTCUT",
+            null
+          ],
+          [
+            "com.android.launcher.permission.UNINSTALL_SHORTCUT",
+            null
+          ],
+          [
+            "android.permission.CAMERA",
+            null
+          ],
+          [
+            "android.permission.BLUETOOTH",
+            null
+          ],
+          [
+            "android.permission.MANAGE_OWN_CALLS",
+            null
+          ],
+          [
+            "android.permission.USE_FULL_SCREEN_INTENT",
+            null
+          ],
+          [
+            "android.permission.REQUEST_INSTALL_PACKAGES",
+            null
+          ],
+          [
+            "android.permission.READ_PHONE_NUMBERS",
+            null
+          ],
+          [
+            "com.sec.android.provider.badge.permission.READ",
+            null
+          ],
+          [
+            "com.sec.android.provider.badge.permission.WRITE",
+            null
+          ],
+          [
+            "com.htc.launcher.permission.READ_SETTINGS",
+            null
+          ],
+          [
+            "com.htc.launcher.permission.UPDATE_SHORTCUT",
+            null
+          ],
+          [
+            "com.sonyericsson.home.permission.BROADCAST_BADGE",
+            null
+          ],
+          [
+            "com.sonymobile.home.permission.PROVIDER_INSERT_BADGE",
+            null
+          ],
+          [
+            "com.anddoes.launcher.permission.UPDATE_COUNT",
+            null
+          ],
+          [
+            "com.majeur.launcher.permission.UPDATE_BADGE",
+            null
+          ],
+          [
+            "com.huawei.android.launcher.permission.CHANGE_BADGE",
+            null
+          ],
+          [
+            "com.huawei.android.launcher.permission.READ_SETTINGS",
+            null
+          ],
+          [
+            "com.huawei.android.launcher.permission.WRITE_SETTINGS",
+            null
+          ],
+          [
+            "android.permission.READ_APP_BADGE",
+            null
+          ],
+          [
+            "com.oppo.launcher.permission.READ_SETTINGS",
+            null
+          ],
+          [
+            "com.oppo.launcher.permission.WRITE_SETTINGS",
+            null
+          ],
+          [
+            "me.everything.badger.permission.BADGE_COUNT_READ",
+            null
+          ],
+          [
+            "me.everything.badger.permission.BADGE_COUNT_WRITE",
+            null
+          ],
+          [
+            "com.android.vending.BILLING",
+            null
+          ],
+          [
+            "android.permission.WRITE_EXTERNAL_STORAGE",
+            null
+          ],
+          [
+            "android.permission.ACCESS_BACKGROUND_LOCATION",
+            null
+          ]
+        ],
+        "versionCode": 27219,
+        "versionName": "8.8.5"
       }
     ]
   }

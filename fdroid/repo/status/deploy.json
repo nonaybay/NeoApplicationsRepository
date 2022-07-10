@@ -1,1 +1,1 @@
-{"/etc/issue.net":"Kali GNU/Linux Rolling","commandLine":["/usr/bin/fdroid deploy","-v"],"endTimestamp":1657414726804,"startTimestamp":1657425516000,"subcommand":"deploy"}
+{"/etc/issue.net":"Kali GNU/Linux Rolling","commandLine":["/usr/bin/fdroid deploy","--verbose"],"endTimestamp":1657416049035,"startTimestamp":1657426830000,"subcommand":"deploy"}
